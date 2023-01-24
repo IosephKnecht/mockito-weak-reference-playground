@@ -1,0 +1,1 @@
+/Users/iosephknecht/IdeaProjects/MockitoWeakReferencePlayground/build/classes/kotlin/main/Bar.class:/Users/iosephknecht/IdeaProjects/MockitoWeakReferencePlayground/build/classes/kotlin/main/Foo.class
